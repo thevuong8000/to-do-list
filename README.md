@@ -1,2 +1,2 @@
 # To do app
-:warning: For privacy reasons, please don't visit my app, otherwise please don't change anything :) Thank you!!
+Visit my app at: https://thevuong8000.github.io/to-do-list/
